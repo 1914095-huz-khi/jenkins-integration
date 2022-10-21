@@ -4,6 +4,8 @@ n_1 = 0
 n_2 = 1  
 count = 0  
 
+print("fibonacci series",end=": ")
+
 while count < n:  
     print(n_1,end=' ')
     nth = n_1 + n_2 
